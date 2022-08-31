@@ -1,0 +1,12 @@
+{
+  "name": "ObsChangeOfSceneryBotGuilded",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "obs-websocket-js": "^4.0.3",
+    "ws": "^8.6.0",
+    "node-fetch": "^3.2.4"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ObsChangeOfSceneryBotDiscord",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "discord.js": "^14.3.0",
+    "express": "^4.18.1",
+    "got": "^12.1.0",
+    "jsdom": "^20.0.0",
+    "obs-websocket-js": "^5.0.0",
+    "sleep": "^6.3.0",
+    "taskkill": "^5.0.0",
+    "webview": "^1.0.0"
+  }
+}
